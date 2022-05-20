@@ -1,0 +1,621 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* HTML */
+html {
+    font-family: 'Rubik', sans-serif;
+}
+
+/* Body */
+body {
+    margin: 0;
+    background-color: #ffffff;
+}
+
+/*
+    # Device Name : iPhone SE
+    # Maximum Resolution : 667 Pixel
+    # Minimum Resolution : 375 Pixel
+*/
+@media (min-width: 375px) and (max-width: 667px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : iPhone XR
+    # Maximum Resolution : 396 Pixel
+    # Minimum Resolution : 414 Pixel
+*/
+@media (min-width: 414px) and (max-width: 396px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : iPhone 12 Pro
+    # Maximum Resolution : 844 Pixel
+    # Minimum Resolution : 390 Pixel
+*/
+@media (min-width: 390px) and (max-width: 884px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Pixel 5
+    # Maximum Resolution : 851 Pixel
+    # Minimum Resolution : 393 Pixel
+*/
+@media (min-width: 393px) and (max-width: 851px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Samsung Galaxy S8+
+    # Maximum Resolution : 740 Pixel
+    # Minimum Resolution : 360 Pixel
+*/
+@media (min-width: 360px) and (max-width: 740px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Samsung Galaxy S20 Ultra
+    # Maximum Resolution : 915 Pixel
+    # Minimum Resolution : 412 Pixel
+*/
+@media (min-width: 412px) and (max-width: 915px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : iPad Air
+    # Maximum Resolution : 1180 Pixel
+    # Minimum Resolution : 820 Pixel
+*/
+@media (min-width: 820px) and (max-width: 1180px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : iPad Mini
+    # Maximum Resolution : 1024 Pixel
+    # Minimum Resolution : 768 Pixel
+*/
+@media (min-width: 768px) and (max-width: 1024px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Surface Pro 7
+    # Maximum Resolution : 1368 Pixel
+    # Minimum Resolution : 912 Pixel
+*/
+@media (min-width: 912px) and (max-width: 1368px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Surface Duo
+    # Maximum Resolution : 720 Pixel
+    # Minimum Resolution : 540 Pixel
+*/
+@media (min-width: 540px) and (max-width: 720px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Galaxy Fold
+    # Maximum Resolution : 653 Pixel
+    # Minimum Resolution : 280 Pixel
+*/
+@media (min-width: 280px) and (max-width: 653px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Samsung Galaxy A51/71
+    # Maximum Resolution : 914 Pixel
+    # Minimum Resolution : 412 Pixel
+*/
+@media (min-width: 412px) and (max-width: 914px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Nest Hub
+    # Maximum Resolution : 600 Pixel
+    # Minimum Resolution : 1024 Pixel
+*/
+@media (min-width: 1024px) and (max-width: 600px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/*
+    # Device Name : Nest Hub Max
+    # Maximum Resolution : 800 Pixel
+    # Minimum Resolution : 1280 Pixel
+*/
+@media (min-width: 1280px) and (max-width: 800px) {
+    /* Services And Service-Items */
+    .Services .Service-Items {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    /* Header And Navbar */
+    .Header .Navbar {        
+        flex-wrap: wrap;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        flex-direction: column;
+    }
+}
+
+/* Header */
+.Header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #eceff4;
+}
+
+/* Header And Logo */
+.Header .Logo {
+    color: #4c566a;
+}
+
+/* Navbar */
+.Navbar ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+}
+
+/* Navbar */
+.Navbar li {
+    float: left;
+}
+
+/* Navbar */
+.Navbar li a {
+    color: #4c566a;
+    display: block;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Navbar */
+.Navbar li a:hover {
+    cursor: pointer;
+    border-radius: 0.25em;
+    background-color: #f7f9fb;
+}
+
+/* Menu */
+.Menu ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+}
+
+/* Menu */
+.Menu li {
+    float: left;
+}
+
+/* Menu */
+.Menu li a {
+    color: #4c566a;
+    display: block;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Menu */
+.Menu li a:hover {
+    cursor: pointer;
+    border-radius: 0.25em;
+    background-color: #f7f9fb;
+}
+
+/* Hero */
+.Hero {
+    color: #4c566a;
+    display: flex;
+    padding: 75px 45px;
+    text-align: left;
+    justify-content: center;
+    background-color: #e5e9f0;
+}
+
+/* Hero And Hero-Inner */
+.Hero .Hero-Inner {
+    max-width: 760px;
+}
+
+/* Hero */
+.Hero h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+/* Hero */
+.Hero p {
+    font-size: 1.15rem;
+    line-height: 1.5;
+}
+
+/* Hero */
+.Hero a {
+    color: #4c566a;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 1.15rem;
+    border-radius: 8px;
+    text-decoration: none;
+    background-color: #88c0d0;
+}
+
+/* Hero */
+.Hero a:hover {
+    background-color: #7dafbd;
+}
+
+/* About */
+.About {
+    color: #4c566a;
+    display: flex;
+    padding: 75px 45px;
+    text-align: right;
+    justify-content: center;
+    background-color: #eceff4;
+}
+
+/* About And About-Inner */
+.About .About-Inner {
+    max-width: 760px;
+}
+
+/* About */
+.About h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+/* About */
+.About p {
+    font-size: 1.15rem;
+    line-height: 1.5;
+}
+
+/* About */
+.About a {
+    color: #4c566a;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 1.15rem;
+    border-radius: 8px;
+    text-decoration: none;
+    background-color: #88c0d0;
+}
+
+/* About */
+.About a:hover {
+    background-color: #7dafbd;
+}
+
+/* Services */
+.Services {
+    color: #4c566a;
+    display: flex;
+    padding: 75px 45px;
+    text-align: center;
+    justify-content: center;
+    background-color: #e5e9f0;
+}
+
+/* Services And Service-Inner */
+.Services .Services-Inner {
+    max-width: 845px;
+}
+
+/* Services And Service-Items */
+.Services .Service-Items {
+    display: flex;
+}
+
+/* Service-Items And Service-Item */
+.Service-Items .Service-Item {
+    margin-top: 45px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+/* Services */
+.Services h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+/* Services */
+.Services h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+/* Services */
+.Services p {
+    font-size: 1.15rem;
+    line-height: 1.5;
+}
+
+/* Services */
+.Services a {
+    color: #4c566a;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 1.15rem;
+    border-radius: 8px;
+    text-decoration: none;
+    background-color: #88c0d0;
+}
+
+/* Services */
+.Services a:hover {
+    background-color: #7dafbd;
+}
+
+/* Contact */
+.Contact {
+    color: #4c566a;
+    display: flex;
+    padding: 75px 45px;
+    text-align: center;
+    justify-content: center;
+    background-color: #eceff4;
+}
+
+/* Contact And Contact-Inner */
+.Contact .Contact-Inner {
+    max-width: 845px;
+}
+
+/* Contact And Contact-Items */
+.Contact .Contact-Items {
+    display: flex;
+    margin-top: 25px;
+    flex-direction: column;
+}
+
+/* Contact-Item */
+.Contact-Item {
+    text-align: left;
+}
+
+/* Contact */
+.Contact-Item input {
+    color: #4c566a;
+    width: 95%;
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: #e5e9f0;
+}
+
+/* Contact */
+.Contact-Item textarea {
+    color: #4c566a;
+    width: 95%;
+    border: none;
+    resize: none;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: #e5e9f0;
+}
+
+/* Contact */
+.Contact h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+/* Contact */
+.Contact p {
+    font-size: 1.15rem;
+    line-height: 1.5;
+}
+
+/* Contact */
+.Contact a {
+    color: #4c566a;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 1.15rem;
+    margin-top: 25px;
+    border-radius: 8px;
+    text-decoration: none;
+    background-color: #88c0d0;
+}
+
+/* Contact */
+.Contact a:hover {
+    background-color: #7dafbd;
+}
+
+/* Footer */
+.Footer {
+    color: #4c566a;
+    font-size: 1.15rem;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-decoration: none;
+    background-color: #e5e9f0;
+}
