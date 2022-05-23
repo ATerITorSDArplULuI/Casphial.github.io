@@ -351,35 +351,6 @@ body {
     background-color: #f7f9fb;
 }
 
-/* Menu */
-.Menu ul {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    list-style-type: none;
-}
-
-/* Menu */
-.Menu li {
-    float: left;
-}
-
-/* Menu */
-.Menu li a {
-    color: #4c566a;
-    display: block;
-    padding: 10px 15px;
-    text-align: center;
-    text-decoration: none;
-}
-
-/* Menu */
-.Menu li a:hover {
-    cursor: pointer;
-    border-radius: 0.25em;
-    background-color: #f7f9fb;
-}
-
 /* Hero */
 .Hero {
     color: #4c566a;
